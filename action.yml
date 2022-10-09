@@ -1,6 +1,9 @@
 # https://docs.github.com/en/actions/creating-actions/creating-a-composite-action
 name: 'DevSoutinho - Flutter Ci/CD Base Actions'
 description: 'Greet someone'
+icon: smartphone
+color: orange
+
 runs:
   using: "composite"
   steps:
