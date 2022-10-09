@@ -1,5 +1,5 @@
 # https://docs.github.com/en/actions/creating-actions/creating-a-composite-action
-name: 'Flutter Composite Actions'
+name: 'DevSoutinho - Flutter Ci/CD Base Actions'
 description: 'Greet someone'
 runs:
   using: "composite"
