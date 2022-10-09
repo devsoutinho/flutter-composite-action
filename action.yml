@@ -16,5 +16,6 @@ runs:
         flutter-version: '3.3.4'
         channel: 'stable' # or: 'beta', 'dev' or 'master'
     - name: Install melos
+      shell: bash
       run: dart pub global activate melos
     ## ======
